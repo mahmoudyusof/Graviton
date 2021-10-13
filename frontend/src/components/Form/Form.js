@@ -5,7 +5,7 @@ import MenuItem from 'material-ui/MenuItem';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 import {Typography} from "@material-ui/core";
 
-import { analyze } from '../../api/index'
+import { analyze } from '../../api'
 
 import useStyles from './styles'
 
